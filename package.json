@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  },
+  "name": "2034-logica-programacion-1-aula1",
+  "version": "1.0.0",
+  "main": "app.js",
+  
+  "scripts": {
+    "build": "npx tailwindcss -i ./style.css -o dist/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
